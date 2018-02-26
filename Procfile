@@ -1,1 +1,1 @@
-web: python nlp_bot.py
+worker: python nlp_bot.py
