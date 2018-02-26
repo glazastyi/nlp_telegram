@@ -1,2 +1,2 @@
-# Tinkoff NLP Telegram bot
+# ECHO Telegram bot
  
