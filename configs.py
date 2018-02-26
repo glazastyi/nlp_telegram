@@ -8,4 +8,4 @@ DATA = {"chat_id": "INT",
         "message_type": "TEXT",
         "message_time": "TEXT",
         "message": "TEXT"}
-LOGGER_FILE = "{}.log".format(D_NAME)
+LOGGER_FILE = "{}.log".format(DB_NAME)
